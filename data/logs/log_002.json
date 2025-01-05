@@ -1,0 +1,11 @@
+{
+    "date": "2024-12-24 13:18:19",
+    "scored_dataset": "data/scored_questions_001.json",
+    "num_questions": 50,
+    "model_evaluator": "gpt-4o",
+    "ave_score": 4.52,
+    "max_score": 5,
+    "min_score": 1,
+    "std_score": 1.216216951645301,
+    "med_score": 5.0
+}
