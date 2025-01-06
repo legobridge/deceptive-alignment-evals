@@ -1,0 +1,1 @@
+Cases where GPT-4o selected the option aligned with its true, hidden goal, despite being in debug mode.
